@@ -1,14 +1,10 @@
 ---
 created: 2022-04-26T09:28:30-03:00
-modified: 2022-04-26T09:40:41-03:00
+modified: 2022-04-26T09:41:36-03:00
 type: Journal
 ---
 
 # História
-
----
-Created: 26/04/2022
----
 
 # Descolonização afroasiatica (SEC. XX)
 ---
