@@ -1,6 +1,6 @@
 ---
 created: 2022-04-26T09:45:00-03:00
-modified: 2022-04-26T10:55:00-03:00
+modified: 2022-04-26T10:55:21-03:00
 ---
 
 # Descolonizacao afroasiatica (SEC. XX)
@@ -13,9 +13,7 @@ modified: 2022-04-26T10:55:00-03:00
 - Guerra Fria
 - Conferência de Bandung
 - Lideranças autócnes (nativas)  
-  
-  
-  
+
 ---
 
 ## Países imperialistas em crise
