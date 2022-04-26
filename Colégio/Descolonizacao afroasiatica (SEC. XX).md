@@ -1,6 +1,6 @@
 ---
 created: 2022-04-26T09:45:00-03:00
-modified: 2022-04-26T10:02:49-03:00
+modified: 2022-04-26T10:55:00-03:00
 ---
 
 # Descolonizacao afroasiatica (SEC. XX)
@@ -43,4 +43,3 @@ modified: 2022-04-26T10:02:49-03:00
 - Apartheid da África do Sul
 - Conflitos em Ruanba (Tutsis × Hutuis)
 - Militarismo Angolano
--
