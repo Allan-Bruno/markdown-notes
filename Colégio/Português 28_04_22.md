@@ -1,6 +1,6 @@
 ---
 created: 2022-04-28T08:03:42-03:00
-modified: 2022-04-28T08:03:59-03:00
+modified: 2022-04-28T09:33:42-03:00
 ---
 
 # Português 28/04/22
@@ -26,4 +26,12 @@ Ex.:Não se trata de mais uma música, esta é a música
 
 Ex.: Li a notícia em O Estado de S.Paulo
 
-**13.**
+**13.** Depois do pronome indefinido todo emprega-se o artigo quando se quer dar ideia de inteiro, totalidade
+
+Ex.: Ele leu todo o livro
+
+Todo homem é mortal
+
+**14.**  O artigo indefinido é empregado para indicar quantidade aproximada
+
+Ex.: Maria Helena tem uns sessenta anos
