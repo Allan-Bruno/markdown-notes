@@ -1,6 +1,6 @@
 ---
 created: 2022-04-27T12:06:11-03:00
-modified: 2022-04-27T12:31:36-03:00
+modified: 2022-04-27T12:31:36-04:00
 ---
 
 # Verbos irregulares en presente de indicativo
