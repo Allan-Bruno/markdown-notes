@@ -4,7 +4,7 @@ Probabilidade é um ramo da Matemática em que as chances de ocorrência de expe
 
 As probabilidades são calculadas dividindo-se o número de resultados favoráveis pelo número de resultados possíveis, ou seja:
 
-P = n(E) / n(C)
+**P = n(E) / n(C)**
 
 Nesse caso, E é um evento que se quer conhecer a probabilidade, e Ω é o espaço amostral que o contém.
 
@@ -47,6 +47,7 @@ Para isso, vamos inicialmente determinar o número de casos favoráveis e o núm
 #### Solução
 
 Casos favoráveis: 10 (brancas)
+
 Casos possíveis: 30 (brancas + vermelhas)
 
 Veja que os casos favoráveis são os casos que nos interessam – nesse caso, a quantidade de bolas brancas – e casos possíveis representam o total de elementos do espaço amostral. Vamos chamar de A o evento em questão, assim:
