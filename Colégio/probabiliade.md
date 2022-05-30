@@ -62,6 +62,7 @@ P(A) ≃ 33,333...%
 
 A chance de tirar uma bola branca é de 33,33%
 
+
 **2.**
 Uma letra é escolhida ao acaso dentre as que formam a palavra PERNAMBUCO. Qual a probabilidade de ser uma consoante?
 
