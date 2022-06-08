@@ -4,7 +4,7 @@ Probabilidade é um ramo da Matemática em que as chances de ocorrência de expe
 
 As probabilidades são calculadas dividindo-se o número de resultados favoráveis pelo número de resultados possíveis, ou seja:
 
-**P = n(F) / n(R)**
+**P = n(E) / n(C)**
 
 Nesse caso, E é um evento que se quer conhecer a probabilidade, e C é o espaço amostral que o contém.
 
