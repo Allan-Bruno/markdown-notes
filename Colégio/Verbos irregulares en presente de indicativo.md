@@ -16,11 +16,9 @@ modified: 2022-04-27T12:31:36-04:00
 | Sentís   | Pensáis  | Preferís   |
 | Sienten  | Piensan  | Prefieren  |
 
-<br />
 
 ---
 
-<br />
 - O => UE (Dormir, Contar)
 
 | Dormir   | Contar   |
@@ -32,11 +30,9 @@ modified: 2022-04-27T12:31:36-04:00
 | Dormís   | Contaís  |
 | Duermen  | Cuentan  |
 
-<br />
 
 ---
 
-<br />
 
 - E => I
 
@@ -48,11 +44,9 @@ modified: 2022-04-27T12:31:36-04:00
 | Seguimos | Pedimos | Conseguimos |
 | Siguen   | Piden   | Consiguen   |
 
-<br />
 
 ---
 
-<br />
 
 ## Atividade
 
